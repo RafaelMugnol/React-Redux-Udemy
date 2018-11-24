@@ -1,0 +1,10 @@
+npm init -y //para iniciar o projeto
+npm i // instala as dependencias
+npm start //starta
+
+site para validar regex: https://regex101.com/
+
+dependencias
+"cross-env": "5.1.5", -> para usar variaveis de ambiente que fincionem de forma unica independente do SO
+"optimize-css-assets-webpack-plugin": "4.0.1", -> minificar o css
+"uglifyjs-webpack-plugin": "1.2.5", -> otimizar os js
